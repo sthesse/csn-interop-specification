@@ -142,23 +142,24 @@
     },
     "@PersonalData.isPotentiallySensitive": {
       "type": "boolean",
-      "description": "Property contains potentially sensitive personal data. Sensitive personal data is a category of personal data that needs special handling. The determination which personal data is sensitive may differ for different legal areas or industries.\nExamples of sensitive personal data:\n-\tSpecial categories of personal data, such as data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data concerning health or sex life or sexual orientation.\n-\tPersonal data subject to professional secrecy\n-\tPersonal data relating to criminal or administrative offenses\n-\tPersonal data concerning insurances and bank or credit card accounts",
+      "description": "Property or entity containing potentially sensitive personal data. Sensitive personal data is a category of personal data that needs special handling. The determination which personal data is sensitive may differ for different legal areas or industries.\nExamples of sensitive personal data:\n-\tSpecial categories of personal data, such as data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data concerning health or sex life or sexual orientation.\n-\tPersonal data subject to professional secrecy\n-\tPersonal data relating to criminal or administrative offenses\n-\tPersonal data concerning insurances and bank or credit card accounts",
       "default": true,
       "x-extension-targets": [
-        "Type"
+        "Type",
+        "Entity"
       ],
       "title": "@PersonalData.isPotentiallySensitive"
     },
     "@PersonalData.relatedDataCategoryID": {
+      "description": "The annotation value is an array of strings, enabling the assignment of multiple data categories to one entity or field. The strings must adhere to the format of an Correlation ID corresponding to the concept name \"dataCategory\" in conjunction with an localIdentifier introduced herein (refer to ORD Specification | Open Resource Discovery).",
       "type": "array",
-      "description": "The annotation value is an array of strings, enabling the assignment of multiple data categories to one entity. The strings must adhere to the format of an ORD ID corresponding to the concept name \"dataCategory\" introduced herein (refer to ORD Specification | Open Resource Discovery).",
       "items": {
         "type": "string"
       },
       "examples": [
         [
-          "sap.s4com.dataCategory:SalesOrder",
-          "sap.s4com.dataCategory:PurchaseContract"
+          "sap.s4com:dataCategory:SalesOrder",
+          "sap.s4com:dataCategory:PurchaseContract"
         ]
       ],
       "x-extension-targets": [
