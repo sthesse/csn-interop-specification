@@ -423,6 +423,12 @@
           ],
           "description": "Contains the SQL on condition as string"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -933,6 +939,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -1144,6 +1156,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -1353,6 +1371,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -1569,6 +1593,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -1775,6 +1805,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -1983,6 +2019,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -2189,6 +2231,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -2415,6 +2463,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -2619,6 +2673,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -2827,6 +2887,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -3028,6 +3094,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -3231,6 +3303,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -3433,6 +3511,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -3631,6 +3715,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -3839,6 +3929,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -4039,6 +4135,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -4374,6 +4476,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -4724,6 +4832,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -4972,6 +5086,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -5525,6 +5645,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -6010,6 +6136,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -6223,6 +6355,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -6440,6 +6578,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -6646,6 +6790,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -6857,6 +7007,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -7058,6 +7214,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -7258,6 +7420,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -7478,6 +7646,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -7690,6 +7864,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -7890,6 +8070,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -8095,6 +8281,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -8292,6 +8484,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -8491,6 +8689,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -8685,6 +8889,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -8889,6 +9099,12 @@
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
         },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
         },
@@ -9089,6 +9305,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -9425,6 +9647,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -9779,6 +10007,12 @@
         },
         "@AnalyticsDetails.measureType": {
           "$ref": "#/definitions/@AnalyticsDetails.measureType"
+        },
+        "@API.element": {
+          "$ref": "#/definitions/@API.element"
+        },
+        "@API.element.releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
         },
         "@Consumption.valueHelpDefinition": {
           "$ref": "#/definitions/@Consumption.valueHelpDefinition"
@@ -10194,6 +10428,50 @@
         {
           "#": "BASE"
         }
+      ]
+    },
+    "@API.element": {
+      "type": "object",
+      "description": "Specifies the release state of an element which is part of an API.",
+      "properties": {
+        "releaseState": {
+          "$ref": "#/definitions/@API.element.releaseState"
+        },
+        "successor": {
+          "$ref": "#/definitions/ElementReference"
+        },
+        "decommissioningPlannedForYearMonth": {
+          "description": "The annotation describes the planned decommissioning date of the annotated element. Use ISO format for YearMonth: YYYY-MM (e.g. 2024-08)",
+          "type": "string"
+        }
+      },
+      "x-extension-targets": [
+        "Type",
+        "Entity"
+      ]
+    },
+    "@API.element.releaseState": {
+      "type": "object",
+      "description": "The annotation describes the release state of the annotated element.",
+      "properties": {
+        "#": {
+          "type": "string",
+          "description": "Provide the value in `{ \"#\": \"<value>\" }` enum notation.",
+          "oneOf": [
+            {
+              "const": "DEPRECATED",
+              "description": "Formerly released element/association is not to be used anymore.\nAt runtime, the element/association must work as before.\nTogether with this value a successors of the element/association should be defined using annotation @API.element.successor."
+            },
+            {
+              "const": "DECOMMISSIONED",
+              "description": "Formerly released element/association not to be used anymore.\nAt runtime, the element/association returns null values.\nTogether with this value a successors of the element/association should be defined using annotation @API.element.successor."
+            }
+          ]
+        }
+      },
+      "x-extension-targets": [
+        "Type",
+        "Entity"
       ]
     },
     "@Consumption.valueHelpDefinition": {
